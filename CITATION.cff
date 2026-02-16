@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use ThreatIntel-GPT in your research, please cite it as below."
+authors:
+  - family-names: "NEDJIMI"
+    given-names: "Ayi"
+    email: "contact@ayinedjimi-consultants.fr"
+    website: "https://ayinedjimi-consultants.fr"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "ThreatIntel-GPT: AI-Powered Threat Intelligence Analysis Platform"
+version: 1.0.0
+date-released: 2025-02-16
+url: "https://github.com/AYI-NEDJIMI/ThreatIntel-GPT"
+repository-code: "https://github.com/AYI-NEDJIMI/ThreatIntel-GPT"
+license: MIT
+keywords:
+  - cybersecurity
+  - threat-intelligence
+  - artificial-intelligence
+  - mitre-attack
+  - security-analysis
+  - llm
+  - langchain
+  - redis
